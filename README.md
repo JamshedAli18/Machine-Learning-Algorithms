@@ -4,7 +4,7 @@ This repository contains projects that demonstrate the use of various machine le
 
  
 - Python, Jupyter Notebook, scikit-learn, pandas, matplotlib are the technologies that are used in this repository.
-- **Steps**: 
+- **Steps**:  
 -  
   1. **Data Exploration**: Analyze and visualize the dataset. 
   2. **Data Preprocessing**: Clean and prepare the data for modeling. 
